@@ -1,2 +1,6 @@
-public class RepoType {
+public enum RepoType {
+
+    PRIVATE,
+    PUBLIC;
+
 }

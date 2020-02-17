@@ -1,2 +1,8 @@
-public class CommitType {
+public enum CommitType {
+
+    FEATURE,
+    BUGFIX,
+    REFACTOR,
+    OTHER
+
 }
